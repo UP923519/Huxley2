@@ -55,4 +55,4 @@ jobs:
           app-name: 'trainWebAppV2'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF5971E753714CD2B743584B6928355B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3419188DC8054EB581D548165380DAF2 }}
